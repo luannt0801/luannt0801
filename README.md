@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nguyen Thanh Luan</h1>
-<h3 align="center">A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65. Passionate about programming, eager to learn new knowledge in computer networks, artificial intelligence, operating systems, and more.</h3>
+<h1>Hi 👋, I'm Nguyen Thanh Luan</h1>
+<h3>A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65.
+  Passionate about programming, eager to learn new knowledge in computer networks, artificial intelligence, operating systems, and more.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
 
