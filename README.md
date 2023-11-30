@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Luan</h1>
-https://github.com/luannt0801/luannt0801/assets/97387549/6369106c-9eb9-4585-8cd0-bbc101f409e2
+![It's me ❤](https://github.com/luannt0801/luannt0801/raw/main/assets/97387549/6369106c-9eb9-4585-8cd0-bbc101f409e2.jpg)
+
 
 <h3 align="center">A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65. Passionate about programming, eager to learn new knowledge in computer networks, artificial intelligence, operating systems, and more.</h3>
 
