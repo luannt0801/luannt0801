@@ -2,7 +2,6 @@
 <img align="right" width="auto" height="450" src="luan.jpg">
 
 <h3 align="center">A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65.</h3>
-
 <h3 align="center"> Passionate about programming, eager to learn new knowledge in computer networks, artificial intelligence, operating systems, and more.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
