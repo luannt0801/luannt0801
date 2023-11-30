@@ -3,7 +3,7 @@
 
 <h3 align="center">About me ... </h3>
 
-- 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65.
+- 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | Talented Engineer in Electronics and Telecommunications - Class of 65.
 
 - 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
 
