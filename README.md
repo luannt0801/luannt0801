@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Luan</h1>
-![314968458_1882204775451080_6759150587125019875_n](https://github.com/luannt0801/luannt0801/assets/97387549/26fe242f-b3bf-4083-9dfa-39defd9bc8d8)
+![image](https://github.com/luannt0801/luannt0801/assets/97387549/26fe242f-b3bf-4083-9dfa-39defd9bc8d8)
 <h3 align="center">A student at the School of Electrical Engineering, Hanoi University of Science and Technology, specializing in Talented Engineer in Electronics and Telecommunications - Class of 65. Passionate about programming, eager to learn new knowledge in computer networks, artificial intelligence, operating systems, and more.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
