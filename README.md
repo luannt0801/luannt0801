@@ -5,6 +5,8 @@
 
 - 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | **Talented Engineer in Electronics and Telecommunications - Class of 65.**
 
+- :computer: **Future Internet Laboratory**
+
 - 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
 
 - 📫 How to reach me **ntl080102@gmail.com**
