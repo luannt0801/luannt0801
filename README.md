@@ -3,7 +3,7 @@
 
 <h3 align="center">About me ... </h3>
 
-- 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | **Talented Engineer in Electronics and Telecommunications - Class of 65.**
+- 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | **Talented Engineer in Electronics and Telecommunications.**
 
 - :computer: **Future Internet Laboratory**
 
