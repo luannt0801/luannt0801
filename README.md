@@ -1,7 +1,4 @@
-<center>
-  <h1>Hi 👋, I'm <a href="https://github.com/luannt0801">@luannt0801</a></h1>
-</center>
-
+<h1 align = "center">Hi 👋, I'm <a href="https://github.com/luannt0801">@luannt0801</a></h1>
 <img align="right" width="auto" height="450" src="luan.jpg">
 
 <h3 align="center">About me ... </h3>
