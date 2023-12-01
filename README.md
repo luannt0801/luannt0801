@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [@luannt0801](https://github.com/luannt0801)</h1>
+# Hi 👋, I'm [@luannt0801](https://github.com/luannt0801)
 <img align="right" width="auto" height="450" src="luan.jpg">
 
 <h3 align="center">About me ... </h3>
