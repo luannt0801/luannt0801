@@ -7,7 +7,7 @@
 
 - :computer: **Future Internet Laboratory**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luannt0801](https://github.com/luannt0801)
+
 
 - 📫 How to reach me **ntl080102@gmail.com**
 
