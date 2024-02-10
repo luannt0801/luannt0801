@@ -18,4 +18,8 @@
 <a href="https://www.youtube.com/@luannguyen.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@luannguyen.02" height="30" width="40" /></a>
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=luannt0801)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luannt0801&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
