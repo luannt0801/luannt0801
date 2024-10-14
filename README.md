@@ -1,15 +1,18 @@
 <h1 align = "center">Hi 👋, I'm <a href="https://github.com/luannt0801">@luannt0801</a></h1>
-<img align="right" width="auto" height="450" src="luan.jpg">
+<img align="right" width="auto" height="450" src="luan tn.jpg">
 
 <h3 align="center">About me ... </h3>
 
-- 👦 A student at the School of Electrical Engineering, Hanoi University of Science and Technology | **Talented Engineer in Electronics and Telecommunications.**
+- 🧑‍🎓 Graduated from the **Talented Engineer program majoring in Electronics and Telecommunications** of Hanoi University of Science and Technology -  Sep 2024
 
-- :computer: **Future Internet Laboratory**
+- :computer: Research at **Future Internet Laboratory**
 
+- 🏢 Engineer at **DTS Communication Technologies Corporation**
 
 
 - 📫 How to reach me **ntl080102@gmail.com**
+
+Passionate about network and AI research
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
