@@ -7,8 +7,6 @@
 
 - :computer: Research at **Future Internet Laboratory**
 
-- 🏢 Engineer at **DTS Communication Technologies Corporation**
-
 
 - 📫 How to reach me **ntl080102@gmail.com**
 
