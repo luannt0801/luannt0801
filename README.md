@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 Graduated from the **Talented Engineer program majoring in Electronics and Telecommunications** of Hanoi University of Science and Technology -  Sep 2024
 
-- 🏢 AI Researcher, AI Engineer in Viettel Network, Viettel Software
+- 🏢 AI Researcher, AI Engineer
 
 - :computer: Research at **Future Internet Laboratory**
 
