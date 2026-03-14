@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 Graduated from the **Talented Engineer program majoring in Electronics and Telecommunications** of Hanoi University of Science and Technology -  Sep 2024
 
-- 🏢 AI Researcher, AI Engineer
+- 🏢 AI Researcher, Data Scientist
 
 - :computer: Research at **Future Internet Laboratory**
 
